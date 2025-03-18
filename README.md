@@ -45,7 +45,8 @@ Store Rank & Contribution: Compares store performance.<br />
 Discount Impact on Profitability: Visualizes the relationship between discounts and profit margins.
 <br />
 📷 Screenshots<br />
-![image](https://github.com/user-attachments/assets/df71ca97-ab83-4d06-944d-1b81afcbce64) <br />
+![image](https://github.com/user-attachments/assets/81208d47-c349-4f81-bf0d-86869fa196e2)
+ <br />
 ![image](https://github.com/user-attachments/assets/ef09bd0f-6233-49ce-9cdf-695458c4e763)
 
 
